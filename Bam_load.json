@@ -1,0 +1,25 @@
+{
+   "load_number": "BIFF-01.999999",
+   "shipper": "Quick Shippers",
+   "carrier": "Kalbo's Trucking",
+   "carrierCode":"713333",
+   "codeType":"DOT",
+   "broker": "Biff Co.",
+   "pickup_location": "1234 Blarf St. Unit 120, Atlanta, GA 33333",
+   "pickup_earliest": "2019-09-01 09:00",
+   "pickup_latest": "2019-09-01 13:00",
+   "dropoff_location": "4321 Bleef Ave., Omaha, NE 67890",
+   "dropoff_earliest": "2019-09-03 14:00",
+   "dropoff_latest": "2019-09-03 18:00",
+   "distance": "1200",
+   "weight": "20000",
+   "equipment": "Flatbed",
+   "tender_amount": "1500",
+   "tender_fuel_advance_amount": "150",
+   "tender_broker_net_amount": "300",
+   "tender_fuel_advance_commission_amount": "10",
+   "tender_total_broker_net_amount": "290",
+   "tender_datetime": "2019-08-22 09:21:35.01543",
+   "number_stops": "2"
+
+}
